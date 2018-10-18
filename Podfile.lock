@@ -1,0 +1,22 @@
+PODS:
+  - MJRefresh (3.1.15.7)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - MJRefresh (~> 3.1.12)
+  - SDWebImage (~> 3.8.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MJRefresh
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: 34cb1b06454e56f62969befb1d5e5a59faf51977
+
+COCOAPODS: 1.5.3
